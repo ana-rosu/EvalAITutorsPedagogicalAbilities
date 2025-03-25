@@ -1,0 +1,10 @@
+great job: 124
+tutor response: 62
+great job let: 60
+job let: 60
+response maximum: 55
+tutor response maximum: 55
+maximum sentence: 53
+response maximum sentence: 53
+assistant tutor: 51
+assistant tutor response: 50

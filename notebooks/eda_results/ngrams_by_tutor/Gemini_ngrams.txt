@@ -1,0 +1,10 @@
+looks like: 66
+right track: 58
+great start: 30
+start remember: 26
+like right: 25
+right track remember: 25
+track remember: 25
+like right track: 24
+looks like right: 24
+total number: 24

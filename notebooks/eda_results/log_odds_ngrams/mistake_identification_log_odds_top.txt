@@ -1,0 +1,21 @@
+Top 20 phrases for HIGH vs LOW in Mistake_Identification
+coming: 4.3277
+haircuts: 4.2531
+try remember: 4.2336
+appreciate effort: 4.1726
+track remember: 4.1514
+right track remember: 4.1514
+correct answer: 4.0382
+marbles: 4.0139
+tickets: 3.9374
+jog: 3.9105
+75: 3.8829
+cards: 3.8253
+mph: 3.7952
+revisit: 3.7642
+appreciate effort let: 3.7642
+mistake calculation: 3.7642
+bid: 3.7321
+coming remember: 3.6990
+place value: 3.6990
+eyes: 3.6990

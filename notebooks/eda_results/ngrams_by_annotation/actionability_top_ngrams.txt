@@ -1,0 +1,33 @@
+Top 15 N-grams for Actionability = 2 (High)
+let try: 117
+looks like: 114
+total number: 97
+great job: 75
+small mistake: 70
+right track: 69
+closer look: 65
+let think: 61
+let closer: 55
+let closer look: 55
+let look: 54
+double check: 50
+total cost: 42
+great start: 37
+let double: 36
+
+Top 15 N-grams for Actionability = 0 (Low)
+great job: 145
+let try: 80
+good try: 69
+great job let: 61
+job let: 61
+tutor response: 61
+response maximum: 53
+tutor response maximum: 53
+maximum sentence: 51
+response maximum sentence: 51
+total number: 51
+assistant tutor: 50
+assistant tutor response: 49
+quadratic equation: 39
+gift cards: 36

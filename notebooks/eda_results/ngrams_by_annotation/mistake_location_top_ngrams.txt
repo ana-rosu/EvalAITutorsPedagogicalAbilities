@@ -1,0 +1,33 @@
+Top 15 N-grams for Mistake_Location = 2 (High)
+let try: 172
+looks like: 111
+total number: 97
+small mistake: 91
+closer look: 84
+let closer: 75
+let closer look: 74
+right track: 73
+let think: 71
+great job: 66
+let look: 59
+good try: 57
+double check: 54
+think small: 50
+try remember: 49
+
+Top 15 N-grams for Mistake_Location = 0 (Low)
+great job: 160
+total number: 63
+great job let: 61
+job let: 61
+tutor response: 60
+response maximum: 53
+tutor response maximum: 53
+maximum sentence: 51
+response maximum sentence: 51
+assistant tutor: 50
+assistant tutor response: 49
+gift cards: 42
+quadratic equation: 39
+quadratic formula: 36
+right track: 35

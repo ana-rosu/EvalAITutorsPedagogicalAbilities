@@ -1,0 +1,33 @@
+Top 15 N-grams for Providing_Guidance = 2 (High)
+let try: 140
+looks like: 103
+total number: 93
+small mistake: 79
+closer look: 78
+right track: 71
+let closer: 68
+let closer look: 68
+great job: 61
+let think: 61
+let look: 53
+double check: 44
+good try: 42
+try remember: 41
+great try: 40
+
+Top 15 N-grams for Providing_Guidance = 0 (Low)
+great job: 144
+great job let: 61
+job let: 61
+tutor response: 57
+response maximum: 54
+tutor response maximum: 54
+maximum sentence: 52
+response maximum sentence: 52
+assistant tutor: 51
+assistant tutor response: 50
+let try: 47
+good try: 41
+total number: 32
+quadratic equation: 29
+quadratic formula: 28

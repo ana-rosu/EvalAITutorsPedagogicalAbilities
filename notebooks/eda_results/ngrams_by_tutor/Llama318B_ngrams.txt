@@ -1,0 +1,10 @@
+total number: 31
+let think: 23
+close let: 20
+closer look: 16
+double check: 16
+let closer: 16
+let closer look: 15
+small mistake: 13
+think small: 13
+correct answer: 12

@@ -1,0 +1,10 @@
+looks like: 56
+small mistake: 51
+think small: 40
+think small mistake: 37
+total number: 33
+closer look: 27
+mistake let: 22
+think mistake: 19
+correct answer: 18
+correctly calculated: 18

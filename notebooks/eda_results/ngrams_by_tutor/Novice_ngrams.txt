@@ -1,0 +1,10 @@
+good try: 37
+recheck answer: 12
+answer incorrect: 11
+plus point: 8
+point effort: 5
+try plus: 5
+try plus point: 5
+try point: 5
+10 10: 4
+good effort: 4

@@ -1,0 +1,21 @@
+Top 20 phrases for HIGH vs LOW in Actionability
+like small mistake: 3.7453
+reconsider: 3.6952
+evaluate: 3.5869
+let evaluate: 3.5869
+let reconsider: 3.5280
+mind: 3.5280
+grams: 3.5280
+seashells: 3.4654
+tax: 3.4654
+ok: 3.3986
+brown: 3.3270
+pair: 3.3270
+bunnies: 3.3270
+jose: 3.3270
+friend: 3.2499
+correct try: 3.2499
+trophies: 3.1664
+million: 3.1664
+monthly: 3.1664
+considering: 3.1664

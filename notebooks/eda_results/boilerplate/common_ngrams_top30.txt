@@ -1,0 +1,31 @@
+Most Common N-grams (likely boilerplate)
+great job: 243
+let try: 216
+total number: 179
+looks like: 170
+right track: 129
+closer look: 124
+let closer: 113
+small mistake: 113
+let closer look: 112
+let think: 96
+good try: 93
+let look: 91
+double check: 83
+tutor response: 70
+job let: 63
+great job let: 62
+total cost: 61
+think small: 60
+effort let: 58
+let double: 57
+let double check: 57
+response maximum: 55
+tutor response maximum: 55
+great start: 54
+make sure: 54
+maximum sentence: 53
+response maximum sentence: 53
+great try: 52
+assistant tutor: 51
+assistant tutor response: 50

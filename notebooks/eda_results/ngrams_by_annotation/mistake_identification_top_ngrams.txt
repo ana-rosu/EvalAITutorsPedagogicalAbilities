@@ -1,0 +1,33 @@
+Top 15 N-grams for Mistake_Identification = 2 (High)
+let try: 194
+looks like: 162
+total number: 139
+right track: 117
+closer look: 113
+small mistake: 109
+let closer: 102
+let closer look: 101
+great job: 93
+let think: 86
+let look: 81
+double check: 66
+good try: 66
+think small: 59
+total cost: 51
+
+Top 15 N-grams for Mistake_Identification = 0 (Low)
+great job: 139
+great job let: 61
+job let: 61
+tutor response: 60
+response maximum: 53
+tutor response maximum: 53
+maximum sentence: 51
+response maximum sentence: 51
+assistant tutor: 50
+assistant tutor response: 49
+quadratic equation: 39
+quadratic formula: 36
+solve quadratic: 34
+4ac 2a: 33
+equation use: 32
